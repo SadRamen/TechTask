@@ -32,3 +32,7 @@ List of created scripts:
         -ExplosiveBarrelLogic
         -GasTankLogic
         -TargetLogic
+
+ Contacts:
+       Tg:NyaRamen
+       email: lizaakvardar@gmail.com
