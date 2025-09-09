@@ -35,4 +35,4 @@ List of created scripts:
 
  Contacts:
        Tg:NyaRamen
-       email: lizaakvardar@gmail.com
+       email: eakvardar@edu.hse.ru
